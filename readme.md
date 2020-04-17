@@ -14,7 +14,7 @@ DELETE  loalhost/todo/{id}
 php artisan migrate --path=/database/migrations/todolist
 ```
 ## 產生假資料(中文)
-透過 Laravel 套件 Faker、Factory 、Seeder 的搭配來產生
+透過 Laravel 內附帶套件: Faker、Factory、Seeder ，來產生假文
 ```
 php artisan db:seed --class=TodolistTableSeeder
 ```
