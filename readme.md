@@ -3,11 +3,11 @@
 
 ## restful API
 ```
-GET    loalhost/todo
-GET    loalhost/todo/{id}
-POST   loalhost/todo
-PATCH  loalhost/todo/{id}
-DELETE loalhost/todo/{id}
+GET     loalhost/todo
+GET     loalhost/todo/{id}
+POST    loalhost/todo
+PATCH   loalhost/todo/{id}
+DELETE  loalhost/todo/{id}
 ```
 ## 建立資料表
 ```
